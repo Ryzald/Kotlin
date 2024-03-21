@@ -1,0 +1,9 @@
+Tidak ada ketentuan dalam pembuatan generic parameter type, namun biasanya kebanyakan
+orang menggunakan 1 karakter sebagai generic parameter type 1
+Nama generic parameter type yang biasa digunakan adalah :
+o E-Element (biasa digunakan di collection atau struktur data) :
+o K-Key
+o N-Number 1
+o T-Type 3
+o V-Value 1
+o SUVetc.-2nd,3rd, 4th types }

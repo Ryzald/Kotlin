@@ -1,3 +1,5 @@
+package intermediate
+
 fun main() {
     // HIGHER ORDER FUNCTION
     fun hello(nama: String, transformer: (String) -> String):String  {

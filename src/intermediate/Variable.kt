@@ -1,3 +1,5 @@
+package intermediate
+
 // agar data dapat berubah isinya dengan Var
 // agar data tidak dapat berubah isinya dengan Val Immutable
 fun main() {

@@ -1,3 +1,5 @@
+package intermediate
+
 fun main() {
 //    FOR LOOPS
     println("FOR LOOPS")

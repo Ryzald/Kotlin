@@ -1,3 +1,5 @@
+package intermediate
+
 fun main() {
 // String satu baris
     val firstName: String = "eko"

@@ -1,3 +1,5 @@
+package intermediate
+
 fun toUpper(value:String):String = value.toUpperCase()
 
 fun main() {

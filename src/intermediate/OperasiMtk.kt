@@ -1,3 +1,5 @@
+package intermediate
+
 fun main() {
     var result = 10 / 3.0
     println(result)

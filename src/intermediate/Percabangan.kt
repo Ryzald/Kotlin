@@ -1,3 +1,5 @@
+package intermediate
+
 fun main() {
 //    IF
     println("IF statement")

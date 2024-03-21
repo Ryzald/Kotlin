@@ -1,3 +1,5 @@
+package intermediate
+
 fun main() {
     // Return IF (memperpendek kata return
     fun sayHello(name: String = ""): String {
